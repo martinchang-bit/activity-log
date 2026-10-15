@@ -19,6 +19,4 @@ jobs:
         uses: ./
         with:
           GITHUB_USERNAME: "martinchang-bit"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TARGET_REPOS: "martinchang-bit/activity-log"
-
+          GITHUB_TOKEN: ${{ secrets.ACTION_PAT }}
