@@ -20,3 +20,5 @@ jobs:
         with:
           GITHUB_USERNAME: "martinchang-bit"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TARGET_REPOS: "martinchang-bit/activity-log"
+
