@@ -38,16 +38,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/5ba61a399d577428114650690945246bfed6f677)
-2. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/a41450e0569753f30c67c40ab02230c11132779d)
-3. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/f06332d4f13b0aaee3d499d23529f81940a6976b)
-4. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/6a66e3dfc31c655604a0e5ceb0656185d2c03a26)
-5. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-6. 📝 Committed to main in [martinchang-bit/readme-auto-update](https://github.com/martinchang-bit/readme-auto-update/commit/6b986f756703f6a779e494b97bbbe816e477ff53)
-7. 🎉 Created a new branch test/break-markers in [martinchang-bit/readme-auto-update](https://github.com/martinchang-bit/readme-auto-update/tree/test/break-markers)
-8. 📝 Committed to 3-add-validation-tests-pull-request-preview-and-badges-for-readme-automation in [martinchang-bit/readme-auto-update](https://github.com/martinchang-bit/readme-auto-update/commit/79f226a6e413db1486807e119a2799fc8e6d1e34)
-9. 📝 Committed to 1-auto-update-readme-with-recent-repository-activity in [martinchang-bit/readme-auto-update](https://github.com/martinchang-bit/readme-auto-update/commit/b3686602ed14c60b674a2451165721ad20e9178f)
-10. 📝 Committed to 1-auto-update-readme-with-recent-repository-activity in [martinchang-bit/readme-auto-update](https://github.com/martinchang-bit/readme-auto-update/commit/21180f7f90694055031f6264a8a17e79d2f43e48)
+1. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/50df0a3830f67e865881747b8b59b8260f2ce145)
+2. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/5ba61a399d577428114650690945246bfed6f677)
+3. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/a41450e0569753f30c67c40ab02230c11132779d)
+4. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/f06332d4f13b0aaee3d499d23529f81940a6976b)
+5. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/6a66e3dfc31c655604a0e5ceb0656185d2c03a26)
+6. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+7. 📝 Committed to main in [martinchang-bit/readme-auto-update](https://github.com/martinchang-bit/readme-auto-update/commit/6b986f756703f6a779e494b97bbbe816e477ff53)
+8. 🎉 Created a new branch test/break-markers in [martinchang-bit/readme-auto-update](https://github.com/martinchang-bit/readme-auto-update/tree/test/break-markers)
+9. 📝 Committed to 3-add-validation-tests-pull-request-preview-and-badges-for-readme-automation in [martinchang-bit/readme-auto-update](https://github.com/martinchang-bit/readme-auto-update/commit/79f226a6e413db1486807e119a2799fc8e6d1e34)
+10. 📝 Committed to 1-auto-update-readme-with-recent-repository-activity in [martinchang-bit/readme-auto-update](https://github.com/martinchang-bit/readme-auto-update/commit/b3686602ed14c60b674a2451165721ad20e9178f)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
