@@ -1,5 +1,4 @@
-// test/integration.test.js
-const assert = require('assert');
+import assert from 'assert';
 
 console.log("========================================");
 console.log("🔗 Starting Integration Tests (Grade E/O)");
