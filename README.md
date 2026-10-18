@@ -45,16 +45,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/13fda4ccda9744fb6dabe722a04d2cc160dcd45b)
-2. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/f50ea640a95d466489ec408e1c6c83280d73c524)
-3. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/9bfc0e3edbb0a47d4099a46dd07a2cc3a78adffe)
-4. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/50df0a3830f67e865881747b8b59b8260f2ce145)
-5. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/5ba61a399d577428114650690945246bfed6f677)
-6. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/a41450e0569753f30c67c40ab02230c11132779d)
-7. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/f06332d4f13b0aaee3d499d23529f81940a6976b)
-8. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/6a66e3dfc31c655604a0e5ceb0656185d2c03a26)
-9. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-10. 📝 Committed to main in [martinchang-bit/readme-auto-update](https://github.com/martinchang-bit/readme-auto-update/commit/6b986f756703f6a779e494b97bbbe816e477ff53)
+1. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/361177f1560c41786bb60d982513193560cec4c4)
+2. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/94a0cdeabfe6778e67edc0dda436bd4d5c790258)
+3. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/07d7e6b7b838fa85724db84d44fb8cf5bfdb9cd9)
+4. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/13fda4ccda9744fb6dabe722a04d2cc160dcd45b)
+5. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/f50ea640a95d466489ec408e1c6c83280d73c524)
+6. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/9bfc0e3edbb0a47d4099a46dd07a2cc3a78adffe)
+7. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/50df0a3830f67e865881747b8b59b8260f2ce145)
+8. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/5ba61a399d577428114650690945246bfed6f677)
+9. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/a41450e0569753f30c67c40ab02230c11132779d)
+10. 📝 Committed to master in [martinchang-bit/activity-log](https://github.com/martinchang-bit/activity-log/commit/f06332d4f13b0aaee3d499d23529f81940a6976b)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
