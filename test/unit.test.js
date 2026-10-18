@@ -1,5 +1,4 @@
-// test/unit.test.js
-const assert = require('assert');
+import assert from 'assert';
 
 console.log("========================================");
 console.log("🚀 Starting Unit Tests (Grade O Suite)");
