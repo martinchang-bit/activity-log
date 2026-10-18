@@ -8,7 +8,7 @@ console.log("========================================");
 function add(a, b) {
   return a + b;
 }
-assert.strictEqual(add(2, 3), 5, "Assertion Error: 2 + 3 should equal 5");
+assert.strictEqual(add(2, 3), 999, "Assertion Error: 2 + 3 should equal 5");
 console.log("✔ Test 1 Passed: Basic math operation verified.");
 
 // --- 測試案例 2：字串與事件格式化邏輯 (模擬 activity-log 行為) ---
