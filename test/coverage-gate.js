@@ -1,6 +1,5 @@
-// test/coverage-gate.js
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
 console.log("========================================");
 console.log("📊 Evaluating Test Coverage & Quality Gate");
