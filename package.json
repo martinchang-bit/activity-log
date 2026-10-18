@@ -9,8 +9,8 @@
     "yaml": "^2.9.0"
   },
   "scripts": {
-    "watch": "ncc build src/index.js --watch --license licenses.txt",
-    "build": "bun install && bunx ncc build src/index.js --license licenses.txt",
+    "watch": "npx ncc build src/index.js --watch --license licenses.txt",
+    "build": "npx ncc build src/index.js -o dist --license licenses.txt",
     "lint:commit": "commitlint --last --verbose",
     "test": "node test/unit.test.js && node test/coverage-gate.js",
     "test:unit": "node test/unit.test.js && node test/coverage-gate.js",
