@@ -107,15 +107,18 @@ jobs:
           echo "Executing integration tests against TEST_ENV=${{ env.TEST_ENV }}..."
           npm run test:integration
 
-  # ==========================================
+ # ==========================================
   # 4. AUTOMATED FAILURE NOTIFICATION (Grade O)
   # ==========================================
   notify-on-failure:
     name: 🚨 Report Failure
     needs: [test-unit, test-integration]
-    if: failure()
+    if: always() && (needs.test-unit.result == 'failure' || needs.test-integration.result == 'failure')
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
       - name: Create GitHub Issue on Test Failure
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
